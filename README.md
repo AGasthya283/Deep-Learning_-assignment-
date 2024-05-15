@@ -52,7 +52,32 @@ Future work may involve fine-tuning the model architecture, exploring different 
 
 ## References
 
-- [Arxiv Paper: Long-Term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/abs/1411.4389)
+- [Arxiv Paper: Long-Term Recurrent Convolutional Networks for Visual Recognition and Description](http://arxiv.org/abs/1411.4389)
+- Donahue, J., Hendricks, L. A., Guadarrama, S., Rohrbach, M., Venugopalan, S., Saenko, K., & Darrell, T. (2014). Long-term Recurrent Convolutional Networks for Visual Recognition and Description. CoRR, abs/1411.4389. [BibTeX](#bibtex-reference)
+
+## BibTeX Reference
+```bibtex
+@article{DBLP:journals/corr/DonahueHGRVSD14,
+  author    = {Jeff Donahue and
+               Lisa Anne Hendricks and
+               Sergio Guadarrama and
+               Marcus Rohrbach and
+               Subhashini Venugopalan and
+               Kate Saenko and
+               Trevor Darrell},
+  title     = {Long-term Recurrent Convolutional Networks for Visual Recognition
+               and Description},
+  journal   = {CoRR},
+  volume    = {abs/1411.4389},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1411.4389},
+  eprinttype = {arXiv},
+  eprint    = {1411.4389},
+  timestamp = {Mon, 13 Aug 2018 16:46:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/DonahueHGRVSD14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 - [TensorFlow Documentation](https://www.tensorflow.org/api_docs/python/tf)
 - [Keras Documentation](https://keras.io/api/)
 
